@@ -1,0 +1,37 @@
+/* style */
+
+.top_section {
+
+    background-color: yellow;
+}
+
+.bottom_section {
+
+    background-color: blue;
+}
+
+.recipe_link {
+
+    font-size: larger;
+    color: white;
+    text-align: center;
+}
+
+a:visited {
+
+    color: white;
+}
+
+.apple {
+    background-color: cadetblue;
+}
+
+.pie {
+
+    background-color: rgb(228, 95, 95);
+}
+
+.gramman {
+
+    background-color: rgb(122, 39, 39);
+}
